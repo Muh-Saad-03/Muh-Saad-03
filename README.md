@@ -58,11 +58,9 @@ When I'm not writing code, I'm poking around in cybersecurity labs on TryHackMe,
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Language Stats
 
 <div align="center">
-
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muh-Saad-03&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muh-Saad-03&layout=compact&hide_border=true&theme=default)
 
