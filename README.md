@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student at **Brooklyn College** (graduating May 2026) who loves turning ideas into real, working software. Whether it's wiring up a cloud AI to a Flask backend or building a full-stack booking platform with a chatbot, I'm happiest when I'm building something that actually *does* something useful.
+I'm a Computer Science student(graduating May 2026) who loves turning ideas into real, working software. Whether it's wiring up a cloud AI to a Flask backend or building a full-stack booking platform with a chatbot, I'm happiest when I'm building something that actually *does* something useful.
 
 When I'm not writing code, I'm poking around in cybersecurity labs on TryHackMe, scanning networks, or watching YouTube ads disappear (I may have blocked them at the router level 👀).
 
@@ -53,9 +53,8 @@ When I'm not writing code, I'm poking around in cybersecurity labs on TryHackMe,
 
 ## 📚 Currently
 
-- 🎓 Finishing my B.S. in Computer Science at Brooklyn College (GPA: 3.12)
+- 🎓 Finishing my B.S. in Computer
 - 🛡️ Grinding through cybersecurity labs on [TryHackMe](https://tryhackme.com) — network security, vulnerability analysis, and system exploitation
-- 🔭 Looking for full-stack or software engineering roles to kick off my career
 
 ---
 
