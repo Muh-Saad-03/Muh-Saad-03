@@ -22,36 +22,6 @@ When I'm not writing code, I'm poking around in cybersecurity labs on TryHackMe,
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 Amazon Review Summarizer
-> *Flask · Python · AWS Bedrock (Claude 3 Haiku) · boto3*
-
-Built an LLM-powered web app that compresses 500+ lines of raw Amazon reviews into clean 3–5 sentence summaries. Designed the full backend API with boto3 for scalable, cloud-based AI interaction.
-
----
-
-### ⚰️ OneSign — AI-Powered Funeral Booking Platform
-> *Full Stack · OpenAI API · PDF Generation · RESTful Architecture*
-
-A sensitive domain done right. Built a complete booking and documentation platform with an AI chatbot that helps users navigate funeral service costs and questions. Focused on secure API handling, input validation, and clean data management.
-
----
-
-### 🔐 Cybersecurity Home Lab
-> *Wireshark · Pi-hole · Network Scanning · Kali Linux*
-
-A personal sandbox for learning the dark arts — network analysis, vulnerability scanning, and setting up a DNS-level ad blocker for every device on my network. Ongoing and always evolving.
-
----
-
-### 🏦 Bank Account Manager (Java)
-> *Java · OOP*
-
-A comprehensive CLI banking app supporting user login, account creation, information storage, and fund transfers. Clean OOP design, the kind of project that makes you actually appreciate interfaces and encapsulation.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
