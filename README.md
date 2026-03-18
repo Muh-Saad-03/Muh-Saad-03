@@ -2,7 +2,7 @@
 
 # Hey there, I'm Muhammad Saad 👋
 
-**Full Stack Developer · CS Graduate (May 2026) · Brooklyn, NY**
+**Full Stack Developer · CS Graduate (May 2026)**
 
 *I build things for the web — and occasionally break them to understand them better.*
 
